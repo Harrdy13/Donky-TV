@@ -1,2 +1,2 @@
 # Donky-TV
-A random video chat site like Omegle built with WebRTC.
+A random video chat site like built with WebRTC.
